@@ -10,7 +10,7 @@
 
 :root{
     --bg-color:#e3edf7;
-    --gradient-white-bg:linear-gradient(0deg,#fff 0%,#edf4fa 51%,#e5eef7 100%);
+    --gradient-white-bg:linear-gradient(180deg,#004EEC 0%, #2563EB 50%, #60A5FA 100%);
     --gradient-color-bg:linear-gradient(180deg,rgba(247,1,120,1)0%,
                                                 rgba(160,8,156,1)51%,
                                                 rgba(99,13,178,1)100%);
@@ -1201,4 +1201,5 @@ footer{
         width: 100%;
         padding: 13px;
     }
+
 }
